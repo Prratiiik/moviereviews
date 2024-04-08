@@ -28,8 +28,3 @@ Screenshots of API Endpoints.
 
 
 
-
-Authentication.
-
-
-Independent learning.
